@@ -1,0 +1,8 @@
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\kallac\kallac\obj\Debug\kallac.csproj.AssemblyReference.cache
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\kallac\kallac\obj\Debug\kallac.csproj.SuggestedBindingRedirects.cache
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\kallac\kallac\obj\Debug\kallac.csproj.CoreCompileInputs.cache
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\kallac\kallac\bin\Debug\kallac.exe.config
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\kallac\kallac\bin\Debug\kallac.exe
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\kallac\kallac\bin\Debug\kallac.pdb
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\kallac\kallac\obj\Debug\kallac.exe
+C:\Users\skele\OneDrive\Рабочий стол\учеба\Основы алгоритмизации\kallac\kallac\obj\Debug\kallac.pdb
